@@ -1,0 +1,1 @@
+mongorestore --collection "collection-name" --db "db-name" "bson-filename"
